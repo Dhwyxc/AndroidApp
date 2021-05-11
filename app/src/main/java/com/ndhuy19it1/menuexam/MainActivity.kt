@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
     private lateinit var navController: NavController
     private lateinit var appBarConfiguration: AppBarConfiguration
-    private lateinit var listener: NavController.OnDestinationChangedListener
+    private lateinit var listenerr: NavController.OnDestinationChangedListener
     private lateinit var binding : ActivityMainBinding
 
     override fun onCreate(savedInstanceState: Bundle?) {
